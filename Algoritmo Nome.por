@@ -4,7 +4,7 @@ programa
     {
         cadeia nome
         
-        escreva("Digite seu nome: Vitor Hugo ")
+        escreva("Digite seu nome: ")
         leia(nome)
         
         escreva("Seu nome é: ", nome)
